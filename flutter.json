@@ -1,5 +1,4 @@
-{
-  "appName": "Flutter Demo App",
+[
   "theme": {
     "primaryColor": "#6200EA",
     "secondaryColor": "#03DAC5",
@@ -36,7 +35,5 @@
     "logout": "https://api.example.com/logout",
     "getUserProfile": "https://api.example.com/user/profile",
     "updateSettings": "https://api.example.com/user/settings"
-  },
-  "version": "1.0.0",
-  "supportEmail": "support@example.com"
-}
+  }
+]
