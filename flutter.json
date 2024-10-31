@@ -1,0 +1,42 @@
+{
+  "appName": "Flutter Demo App",
+  "theme": {
+    "primaryColor": "#6200EA",
+    "secondaryColor": "#03DAC5",
+    "backgroundColor": "#FFFFFF",
+    "textColor": "#000000",
+    "buttonColor": "#6200EA"
+  },
+  "localization": {
+    "en": {
+      "welcomeMessage": "Welcome to the Flutter Demo App",
+      "loginButton": "Log In",
+      "logoutButton": "Log Out",
+      "settingsButton": "Settings",
+      "profileButton": "Profile",
+      "languageLabel": "Language"
+    },
+    "es": {
+      "welcomeMessage": "Bienvenido a la aplicación de demostración de Flutter",
+      "loginButton": "Iniciar sesión",
+      "logoutButton": "Cerrar sesión",
+      "settingsButton": "Configuración",
+      "profileButton": "Perfil",
+      "languageLabel": "Idioma"
+    }
+  },
+  "settings": {
+    "notificationsEnabled": true,
+    "darkModeEnabled": false,
+    "language": "en",
+    "autoLogin": true
+  },
+  "apiEndpoints": {
+    "login": "https://api.example.com/login",
+    "logout": "https://api.example.com/logout",
+    "getUserProfile": "https://api.example.com/user/profile",
+    "updateSettings": "https://api.example.com/user/settings"
+  },
+  "version": "1.0.0",
+  "supportEmail": "support@example.com"
+}
